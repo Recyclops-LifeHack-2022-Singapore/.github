@@ -19,6 +19,15 @@ What can we do to encourage more people to recycle, or make recycling more conve
 - Recyclops is a progressive web app (PWA), allowing users to easily install the app on their mobile device's home screen and receive updates seamlessly. This removes the need for users to remember website links or constantly update the app through their device’s app store.
 - The recyclable data and machine learning algorithm are consistently updated and improved to ensure our application stays relevant so users will not have to look elsewhere for updated information.
 
+## Dataset Sources
+We looked for open source datasets that are relevant for our machine learning task. For certain categories such as aluminum cans, online data sources did not fit our requirement and hence we had to manually source for more aluminum cans on google images and other sites.
+
+Much appreciation goes towards:  
+[Kaggle Garbage Collection](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)<br>
+[Waste Images from Sushi Restaurant](https://www.kaggle.com/datasets/arthurcen/waste-images-from-sushi-restaurant) <br>
+[Kaggle Waste Images](https://www.kaggle.com/datasets/wangziang/waste-pictures) <br>
+[Thrash Box](https://github.com/nikhilvenkatkumsetty/TrashBox)
+
 
 ## Accessing Recyclops
 
