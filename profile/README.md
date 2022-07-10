@@ -46,11 +46,20 @@ Next, we had to take into account the time constraint because it is hard to find
 
 ## Biggest Learning Point
 
-The willingness to dive into something new. Despite this being a hackathon, learning a new library, using new frameworks is always worth the experience as that is when we gain the most from this hackathon. 
+The willingness to dive into something new. Despite this being a hackathon, learning a new library, using new frameworks is always worth the experience as that is when we gain the most from this hackathon.
+
+## Moving Forward
+
+Due to time constraint, we were not able to implement all the features we planned to but we will continue working on it as we really hope this app will serve its intended purpose and help peopple recycle.
+- UX Gamification to better engage users
+- Machine Learning Ops to integrate CI/CD systems
+- Increase datasets and train model to classify more items
 
 
 ## Dataset Sources
 We looked for open source datasets that are relevant for our machine learning task. For certain categories such as aluminum cans, online data sources did not fit our requirement and hence we had to manually source for more aluminum cans on google images and other sites.
+
+We seeded our data about recyclables and information about how to properly recycle them from the official NEA site ([ZeroWasteSg](https://www.towardszerowaste.gov.sg/recycle/what-to-recycle/)).
 
 
 [Kaggle Garbage Collection](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)<br>
