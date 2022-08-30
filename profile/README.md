@@ -1,4 +1,5 @@
 # Recyclops - Lifehack 2022
+![](https://img.shields.io/badge/2022-Theme%20Best-brightgreen) ![](https://img.shields.io/badge/2022-Winner%20%F0%9F%8F%86-yellow)
 - Cui Shen Yi
 - Muthukrishnan Santosh
 - Goh Jun Yi
